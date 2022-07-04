@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**aetherAF/aetherAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ℹ️ Info's about me:
 
-Here are some ideas to get you started:
+• Name: aetherAF | Aether Amantra Dela Cruz 🚶‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Country: Philippines 🇵🇭
+
+• City: Manila 🌇
+
+• Age: Disclosed ❌
+
+• Hobbies: Building ROMs 👾
+
+• Current Device: Redmi 9 (Lancelot) (4/64GB) 📱
