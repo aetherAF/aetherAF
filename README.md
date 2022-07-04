@@ -1,6 +1,6 @@
-### Hi there 👋 #
+# Hi there 👋 #
 
-# ℹ️ Info's about me: #
+### ℹ️ Info's about me: 
 
 • Name: aetherAF | Aether Amantra Dela Cruz 🚶‍♂️
 
