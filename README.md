@@ -13,3 +13,5 @@
 • Hobbies: Building ROMs 👾
 
 • Current Device: Redmi 9 (Lancelot) (4/64GB) 📱
+
+• E-mail: radiricgaming@gmail.com
